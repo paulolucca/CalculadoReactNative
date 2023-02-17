@@ -1,0 +1,46 @@
+
+.conteiner{
+  height: 320px;
+  width: 235px;
+  border-radius: 5px;
+  overflow: hidden;
+  
+
+  display: grid;
+  grid-template-columns: repeat(4, 25%);
+  grid-template-rows: 1fr 48px 48px 48px 48px 48px;
+  
+
+  
+
+
+    
+
+}
+
+
+.conteiner{
+
+    
+}
+.conteiner h1{
+    background-color: forestgreen;
+    
+    
+}
+
+.continer Button{
+
+    background-color: rgb(231, 88, 207);
+    color: white;
+    border-radius: 5px;
+    
+
+
+}
+
+
+
+
+
+   
